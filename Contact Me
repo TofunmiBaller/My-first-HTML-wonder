@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact Me☎</title>
+</head>
+
+<br />
+
+<table cellpadding="20">
+  <tr>
+    <td><img src="image6.png" alt="Twitter logo" height="120" /></td>
+    <td><a href="https://twitter.com/BolawoleTofunmi">Hit Me Up on Twitter</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="image4.png" alt="Whatsapp logo" height="140" /></td>
+    <td><a href="https://api.whatsapp.com/send?phone=2349014908354">Send a DM on Whatsapp</a></td>
+  </tr>
+
+  <tr>
+    <td><img src="image5.jpg" alt="Instagram logo" height="130" /></td>
+    <td><a href="https://www.instagram.com/_tofunmiballer_/">Follow My Instagram</a></td>
+  </tr>
+</table>
+
+</html>
